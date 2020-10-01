@@ -11,3 +11,5 @@
 ###### Include two paragraphs of body text
 
 This is an example of body text
+
+This is an example of an inline link to [NPR](https://www.npr.org).
