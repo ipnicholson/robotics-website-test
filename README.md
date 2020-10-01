@@ -8,4 +8,6 @@
 
 ##### Include an image
 
-###### Include two paragraphs of text
+###### Include two paragraphs of body text
+
+This is an example of body text
