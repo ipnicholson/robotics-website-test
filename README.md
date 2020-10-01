@@ -1,8 +1,11 @@
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+# In-Class Assignment:
 
-Markdown is often used for writing documentation. (Documentation explains what's in a repository, or how software works)
+## Use All Six Heading Sizes
+
+### Use Italic and Bold Text
+
+#### Include a hyperlink
+
+##### Include an image
+
+###### Include two paragraphs of text
